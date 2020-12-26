@@ -1,0 +1,1 @@
+(()=>{let e=document.querySelector(".update-btn");e.addEventListener("click",(()=>{e.classList.add("active"),setTimeout((()=>{e.classList.remove("active")}),500)}))})();

@@ -1,0 +1,11 @@
+[
+    {"id": 1, "phone": "095 555 55 55", "name": "Александра Александровна", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "time": "07:45", "date": "01.12.2020", "read": true},
+    {"id": 2, "phone": "095 555 55 55", "name": "Александра Александровна", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "time": "16:37", "date": "06.08.2020", "read": true},
+    {"id": 3, "phone": "095 555 55 55", "name": "Александра Александровна", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "time": "11:50", "date": "12.02.2020", "read": true},
+    {"id": 4, "phone": "095 555 55 55", "name": "Александра Александровна", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "time": "01:02", "date": "13.01.2020", "read": false},
+    {"id": 5, "phone": "095 555 55 55", "name": "Александра Александровна", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "time": "01:05", "date": "13.01.2020", "read": false},
+    {"id": 6, "phone": "095 555 55 55", "name": "Александра Александровна", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "time": "08:45", "date": "12.12.2020", "read": true},
+    {"id": 7, "phone": "095 555 55 55", "name": "Александра Александровна", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "time": "23:26", "date": "19.04.2020", "read": false},
+    {"id": 8, "phone": "095 555 55 55", "name": "Александра Александровна", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "time": "15:31", "date": "11.10.2020", "read": false},
+    {"id": 9, "phone": "095 555 55 55", "name": "Александра Александровна", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "time": "13:42", "date": "27.06.2019", "read": false}
+]
